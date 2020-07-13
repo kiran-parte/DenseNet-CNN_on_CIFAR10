@@ -1,1 +1,1 @@
-# Dense_net-CNN_on_CIFAR10
+# DenseNet-CNN_on_CIFAR10
